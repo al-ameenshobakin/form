@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+.box{
+    height: 600px;
+    width: 700px;
+    margin: 50px;
+    box-shadow: 0 4px 16px red;
+    background-color: orange;
+    margin-left: 320px;
+    margin-top: -1px;
+}
+h1{
+    margin-left: 310px;
+    font-size: 30px;
+    font-style: oblique;
+}
+input[type=text]{
+    border-radius: 4px;
+    margin: 20px;
+    width: 400px;
+    height: 40px;
+    margin-left: 120px;
+    border-bottom: 2px solid black;
+}
+input[type=checkbox]{
+    margin-left: 120px;   
+}
+h2{
+    margin-left: 150px;
+    margin-top: -25px;
+    color: white;
+}
+.reef{
+    margin-left: 400px;
+    margin-top: -40px;
+}
+.boxe{
+    height: 50px;
+    width: 200px;
+    margin: 50px;
+    border: 2px solid black;
+    margin-left: 320px;
+    background-color: white;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 220px;
+    padding-top: 10px;
+    text-decoration: none;
+}
+h3{
+    margin-left: 150px;
+    color: white;   
+}
+.you{
+    margin-left: 350px;
+    margin-top: -37px;
+    font-size: large;
+}
